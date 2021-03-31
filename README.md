@@ -1,0 +1,2 @@
+# shitposter
+autobumper for nto
